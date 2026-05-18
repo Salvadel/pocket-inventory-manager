@@ -10,7 +10,9 @@ A simple tool for tracking your inventory that runs directly from a USB flash dr
 
 The program will open in a new window.
 
-![Inventory Manager Login](https://i.imgur.com/c4zHGYO.png)
+<p align="center">
+  <img src="https://i.imgur.com/c4zHGYO.png" alt="Inventory Manager Login">
+</p>
 
 ## First-Time Setup
 Use the following default credentials to log in for the first time:
@@ -49,7 +51,9 @@ Upon logging in, the system will automatically prompt you to create a **backup c
 
 > Your data is saved directly to the flash drive. Nothing is stored online.
 
-![Inventory Manager Home Screen](https://i.imgur.com/5zyoxW6.png)
+<p align="center">
+  <img src="https://i.imgur.com/5zyoxW6.png" alt="Inventory Manager Home Screen">
+</p>
 
 ## Changing Your Password
 If you need to change your password after logging in, use the **Forgot password?** link on the login screen.
