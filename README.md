@@ -1,4 +1,4 @@
-# Pocket Inventory - Inventory Manager
+# Pocket Inventory Manager
 A simple tool for tracking your inventory that runs directly from a USB flash drive on any Windows computer. No installation or internet connectivity required.
 
 ## Instructions
